@@ -66,4 +66,4 @@ async function addMSGToken() {
 ## 4. Monetary Policy & Security
 * **Deflationary Mechanism:** A percentage (e.g., 1%) of every internal service fee and subscription payment is permanently **burned** (removed from circulation), reducing overall supply over time.
 * **Sybil Protection:** The dynamic fee algorithm scales token requirements upwards if a single node or user attempts to overload the network with rapid messages.
-ликвидности)?Описание стейкинга для нод (сколько токенов нужно заморозить, чтобы запустить свой релей-сервер для передачи сообщений)?В ответах искусственного интеллекта могут быть ошибки. Если вам требуется финансовая консультация, обратитесь к специалисту. Подробнее…
+
