@@ -14,7 +14,7 @@ Since the messenger features a built-in exchange system to swap Ethereum (ETH) f
 Before importing the token, ensure your MetaMask is connected to the **Arbitrum One** network. If it is not configured yet, use the following settings:
 
 * **Network Name:** Arbitrum One
-* **New RPC URL:** `https://arbitrum.io`
+* **New RPC URL:** `[https://arbitrum.io](https://arb1.arbitrum.io/rpc)`
 * **Chain ID:** `42161`
 * **Currency Symbol:** `ETH`
 * **Block Explorer URL:** `https://arbiscan.io`
